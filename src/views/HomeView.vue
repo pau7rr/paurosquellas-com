@@ -3,6 +3,7 @@
 </script>
 
 <template>
-  <main>
+  <main class=" bg-slate-900 h-screen">
+    a
   </main>
 </template>
