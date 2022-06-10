@@ -1,9 +1,9 @@
 <template>
     <div>
-        <h1 class=" font-mono text-4xl font-extrabold text-gray-100 md:text-6xl mb-10">
+        <h1 class=" font-mono text-4xl font-extrabold text-gray-100 md:text-6xl mb-10 text-center">
             hi, I'm <span class=" text-green-200"> Pau Rosquellas 👋 </span>
         </h1>
-        <span class="typing text-white mx-auto text-3xl"> Web Developer! </span>
+        <span class="typing text-white mx-auto text-xl md:text-3xl"> Web Developer! </span>
     </div>
 </template>
 
