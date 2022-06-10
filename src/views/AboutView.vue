@@ -1,15 +1,16 @@
+<script setup>
+  import AboutImage from '@/components/AboutImage.vue'
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <section class=" bg-slate-900 h-screen flex flex-col">
+    <AboutImage class=" mx-auto"/>
+    <p class=" mt-2 p-12 mx-auto font-mono text-gray-100">
+      Hi, I'm Pau Rosquellas, 
+    </p>
+  </section>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
+<style scoped>
+
 </style>
