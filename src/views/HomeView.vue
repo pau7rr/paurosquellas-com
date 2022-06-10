@@ -7,9 +7,3 @@
     <Intro class=" mt-72 mx-auto" />
   </main>
 </template>
-
-<style scoped>
-
-
-
-</style>
