@@ -13,7 +13,7 @@ const router = createRouter({
     {
       path: '/paurosquellas-com/',
       name: 'Home',
-      component: Home
+      component: HomeView
     },
     {
       path: '/about',
